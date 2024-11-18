@@ -1,0 +1,7 @@
+streamlit_extras
+pycaret==2.3.10
+streamlit
+Jinja2==3.1.2
+numpy
+pandas
+ydata-profiling
